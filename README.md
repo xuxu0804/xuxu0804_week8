@@ -1,4 +1,4 @@
-# xuxu0804_9103_week8
+# xuxu0804_week8
 
 ## Part 1: Imaging Technique Inspiration
 
@@ -31,3 +31,4 @@
 [How to Draw a Squiggly Line in P5JS](https://www.alpharithms.com/how-to-draw-a-squiggly-line-in-p5js-or-processing-120715)
 
 ![An image of reference1](readmeImages/reference1.jpg)
+
