@@ -1,4 +1,4 @@
-# xuxu0804_week8
+# xuxu0804_week8_Quiz8
 
 ## Part 1: Imaging Technique Inspiration
 
